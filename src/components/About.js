@@ -30,7 +30,7 @@ function About() {
     },
     {
       name: "A. Shenal Perera",
-      role: "Second Lead",
+      role: "Associate Lead",
       avatar: Shenal,
     },
     {
